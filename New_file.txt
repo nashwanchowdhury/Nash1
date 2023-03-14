@@ -1,1 +1,2 @@
 Git Commit - Commit is a command that essentially allows you to save your code at that moment. 
+Git clone - Allows you to copy a git repository to your local machine to work on.
