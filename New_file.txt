@@ -1,3 +1,4 @@
 Git Commit - Commit is a command that essentially allows you to save your code at that moment. 
 Git clone - Allows you to copy a git repository to your local machine to work on.
 Git Push - This command allows you to push your code from the local repository to the remote repository. 
+Git add - Adds the changes you made to files to a queue to be committed and pushed up to the repository.
